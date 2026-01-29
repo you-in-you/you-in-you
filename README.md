@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Reza 🛡️
 
-<!--
-**you-in-you/you-in-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Emerging Cybersecurity Enthusiast | Red Team Aspirant
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student currently diving deep into **Network Security** and **Offensive Operations**. I don't just use tools; I'm learning how they work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current Focus
+- 🛡️ Developing **Edis**: A specialized project focused on security (Current flagship).
+- 🌐 Hardening Network Protocols & Penetration Testing basics.
+- 🎓 Studying Computer Engineering at University.
+
+### 💻 Tech Stack & Tools
+- **Languages:** Python (Scripting & Automation), C/C++ (University Core).
+- **Security:** Network Scanning, Basic Exploit Research, Linux Hardening.
+- **Platforms:** Linux (Daily driver), Telegram Bot API (for automation tools).
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=you-in-you&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Get in touch
+- **Telegram:** @you_in_you
+- **Email:** reza.you.in.you@gmail.com
+
+"The quieter you become, the more you are able to hear."
