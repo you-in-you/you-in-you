@@ -17,7 +17,7 @@ I'm a Computer Engineering student currently diving deep into **Network Security
 - **Platforms:** Linux (Daily driver), Telegram Bot API (for automation tools).
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=you-in-you&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=you-in-you&show_icons=true&theme=tokyonight)
 
 ---
 
